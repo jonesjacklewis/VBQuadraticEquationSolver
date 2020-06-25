@@ -1,0 +1,11 @@
+C:\Users\Jack Jones\Documents\BackUp\Programming\Projects\Visual Basic\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe.config
+C:\Users\Jack Jones\Documents\BackUp\Programming\Projects\Visual Basic\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe
+C:\Users\Jack Jones\Documents\BackUp\Programming\Projects\Visual Basic\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.pdb
+C:\Users\Jack Jones\Documents\BackUp\Programming\Projects\Visual Basic\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.xml
+C:\Users\Jack Jones\Documents\BackUp\Programming\Projects\Visual Basic\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.vbprojAssemblyReference.cache
+C:\Users\Jack Jones\Documents\BackUp\Programming\Projects\Visual Basic\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.Resources.resources
+C:\Users\Jack Jones\Documents\BackUp\Programming\Projects\Visual Basic\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.vbproj.GenerateResource.cache
+C:\Users\Jack Jones\Documents\BackUp\Programming\Projects\Visual Basic\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.exe
+C:\Users\Jack Jones\Documents\BackUp\Programming\Projects\Visual Basic\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.xml
+C:\Users\Jack Jones\Documents\BackUp\Programming\Projects\Visual Basic\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.pdb
+C:\Users\Jack Jones\Documents\BackUp\Programming\Projects\Visual Basic\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.QESolver.resources
